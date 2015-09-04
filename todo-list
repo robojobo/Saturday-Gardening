@@ -4,3 +4,5 @@ do some stretches
 get bucket and tools
 weed
 empty bucket
+this line added after patch 1 - is it still part of patch 1? - NO, I COULD CHOOSE BETWEEN "Commit directly to the robojobo-patch-1 branch" AND
+"Create a new branch for this commit and start a pull request." I CHOSE "Create a new branch" - patch 2
